@@ -26,4 +26,5 @@ public class Boss {
     public void setDefence(String defence) {
         this.defence = defence;
     }
+
 }
