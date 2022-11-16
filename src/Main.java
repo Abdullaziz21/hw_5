@@ -8,7 +8,6 @@ public class Main {
                 "\nboss damage :"+boss.getDamage()+
                 "\nboss dafence type : "+boss.getDefence());
 
-
         for (Hero hero: createHeroes()) {
             System.out.println("hero health :"+hero.getHealth()+
                     "\nhero damage :"+hero.getDamage()+
