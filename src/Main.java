@@ -16,6 +16,7 @@ public class Main {
         }
     }
 
+
     public static Hero[] createHeroes(){
         Hero [] heroes=new Hero[3];
         Hero thor = new Hero(180,30,"laser");
